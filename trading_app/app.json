@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Trading App",
+    "slug": "trading-app",
+    "version": "0.0.1",
+    "android": {
+      "package": "com.willz001.tradingapp"
+    }
+  }
+}

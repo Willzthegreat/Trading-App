@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native / Expo
+.expo/
+.expo-shared/
+
+# Metro / Babel caches
+.metro-health-check*
+.cache/
+*.log
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+*.keystore
+!android/app/debug.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+DerivedData/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android debug keystore
+**/android/app/debug.keystore
